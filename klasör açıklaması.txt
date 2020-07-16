@@ -1,0 +1,5 @@
+yaratım tarihi: 15.07.20
+
+v001: kendi oluşturduğumuz veriler ile pytorch problemi çözeceğiz. lineer bir modeli çözdük.
+v001a: kendi oluşturduğumuz iki dereceli fonksiyonu tahmin ettirdik.
+v001b: kendi oluşturduğumuz bir sinüs fonksiyonunu tahmin ettirdik.
