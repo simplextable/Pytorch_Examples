@@ -3,3 +3,5 @@ yaratım tarihi: 15.07.20
 v001: kendi oluşturduğumuz veriler ile pytorch problemi çözeceğiz. lineer bir modeli çözdük.
 v001a: kendi oluşturduğumuz iki dereceli fonksiyonu tahmin ettirdik.
 v001b: kendi oluşturduğumuz bir sinüs fonksiyonunu tahmin ettirdik.
+v002b: v001b dosyasında steplogger fonksiyonunu denedik.
+v001c: v001a'nın dataların ortalamasını alarak verimi arttırmış olduk.
